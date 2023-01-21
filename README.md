@@ -1,5 +1,5 @@
 # AVTagEditor
-Supported files: MP3, AAC, M4A, OGG, WMA, WAV, AIFF, FLAC, MKA, MP4, MKV, WMV, AVI
+Supported files: MP3, AAC, M4A, OGG, WMA, WAV, AIFF, FLAC, MKA, MP4, MKV, WMV, AVI\n
 Supported platform: Windows 7, 8.1, 10, 11
 UI Language: English, Chinese, French, German, Italian, Portuguese, Spanish
 Batch Tag Edit (Edit multiple file tags at once)
